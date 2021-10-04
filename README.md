@@ -12,7 +12,7 @@ The purpose of Automatic Test Documentation is to use visual tools (rather than 
   - consider illegal ops and filter/flag them
   - flag any legal missing paths
   
-#### Quick study on Test doc
+#### Ref
 - https://en.wikipedia.org/wiki/Software_test_documentation
 - https://www.istqb.org/downloads/send/7-advanced-level-documents/303-advanced-level-syllabus-2019-1-test-analyst.html
 - https://www.istqb.org/downloads/send/61-mobile-application-testing/251-mobile-application-testing-specialist-syllabus.html
