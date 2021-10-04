@@ -1,16 +1,16 @@
-### ATdoc
+### ATdoc (Concept)
 ATDoc is an automatic test documentation tool
 
 #### Purpose
 The purpose of Automatic Test Documentation is to use visual tools (rather than writing down cases on Google sheet directly) to create test case. Steps: 
-- Create Mindmaps based on any information provided on:
+- Create Mindmaps based on any information provided on: (Using https://www.mindmup.com/)
   - Business Logic
   - Involved Modules
   - Relation/Dependency
-- Create another mindmap for actions and outputs
-- ATdoc will create test case sheet auto generating all possible combination of abovementioned scenarios, while it will:
-  - consider illegal ops and filter/flag them
-  - flag any legal missing paths
+- ATdoc will create test case sheet auto generating all possible combination of abovementioned scenarios:
+  - convert mindmap to table and manage google sheet ([list2Table.gs](list2Table.gs) and [sheet.gs](sheet.gs)
+  - consider illegal ops and filter/flag them (TODO)
+  - flag any legal missing paths (TODO)
   
 #### Ref
 - https://en.wikipedia.org/wiki/Software_test_documentation
