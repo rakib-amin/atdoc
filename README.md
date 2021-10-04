@@ -8,7 +8,7 @@ The purpose of Automatic Test Documentation is to use visual tools (rather than 
   - Involved Modules
   - Relation/Dependency
 - ATdoc will create test case sheet auto generating all possible combination of abovementioned scenarios:
-  - convert mindmap to table and manage google sheet ([list2Table.gs](list2Table.gs) and [sheet.gs](sheet.gs)
+  - convert mindmap to table and manage google sheet ([list2Table.gs](list2Table.gs) and [sheet.gs](sheet.gs))
   - consider illegal ops and filter/flag them (TODO)
   - flag any legal missing paths (TODO)
   
